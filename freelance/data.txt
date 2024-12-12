@@ -1,0 +1,1 @@
+{"users": {"0x858beB71Dea64f58856114b13A5E7dc9b5fFc707": {"nickname": "gol", "password": "123"}, "0xCCa8e1a074fd4be48ae5f3930cBB5fb5d2a9bd78": {"nickname": "gol2", "password": "123"}}}
